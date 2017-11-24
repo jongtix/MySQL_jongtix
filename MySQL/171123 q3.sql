@@ -1,8 +1,12 @@
 ## 데이터 정의의 (DDL) - Data Definition Language
 # creat, alter, drop
 
-# 데이터 처리어(DML) - Data Manipulation Language
+## 데이터 처리어(DML) - Data Manipulation Language
 # insert, update, delete, select
+
+## 데이터 제어어(DCL) - Data Control Language
+# grant, revoke
+
 use myworld;
 desc member;
 # 테이블에 데이터 입력하기
